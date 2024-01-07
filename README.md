@@ -11,10 +11,10 @@ Spring Boot Main annotations
 
 Stereotype annotation
 ----------------------------------------
-1.  @Component
-2.  @Service
-3.  @RestController / @Controller
-4.  @Repository
+1.  @Component - it used to mark class as spring bean
+2.  @Service- it make where u find business logic
+3.  @RestController / @Controller-it hander class to handle web rewquest
+4.  @Repository - it class hwichused to call datasource(connection with physical datasource)
 
 Spring Core related Annotations:
 ----------------------------------------------------
